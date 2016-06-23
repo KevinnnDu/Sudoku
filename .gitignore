@@ -1,0 +1,6 @@
+#igonre files
+
+build/
+ext/
+bootstrap.json
+.architect
